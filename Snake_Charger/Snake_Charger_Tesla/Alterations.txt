@@ -1,0 +1,79 @@
+
+
+========================================
+Thingiverse object
+http://www.thingiverse.com/thing:1548869
+========================================
+    
+
+
+We think the biggest focuses are cutting the material down and altering the head to fit the wand.
+
+Also cutting material because to make the pieces large enough to actually use they right now are about $300 a piece to get them printed for us,
+
+which is not scale-able (lol) for prototyping.
+
+Goal: Minimum amount of material while keeping the total integrity.
+
+Questions:
+
+1. On your design, did you make it so the pieces kinda snapped together a little bit? We noticed that on the small version.
+
+2. What do you think about making the overall "base" shape of the pieces circular instead or triangular? 
+
+Alteration Thoughts:
+
+A. Right now need to scale your files up about X3 in all directions
+
+B. The tip on the head has the biggest changes.
+
+- make the opening where the wand goes through, wider, (pics attached 0068-0069) the wand is 1 5/8" diameter
+
+- thoughts on how to mount the wand in the tip securely, let me know if you have any ideas
+
+- make the walls of the funnel on the tip thinner
+
+- another thought is lowering that "funnel" to be a lot less in height. We could add some other piece that would hold the wand and attach it to the head piece.. just a thought.
+
+C. We'd like a slit in one side of the tail and all body pieces so the charging cable could just slide into the side and then the wand would just go into the head piece.
+
+(see pic for better idea 0083) Centered on one side between the holes for the wires. And the walls of the "balls" could be thinned up some
+
+D. The base on all the body pieces, I think we can cut in half the "height" thickness (pic 0085)
+
+E. The holes where the cables go, now on the scaled up version are massive, I think we can at minimum half the diameter that they are now. 
+
+- Which could trim the overall size of the base as well (from a top view), to be more fitted and closer to the smaller holes
+
+F. The holes where the cables go, we could keep the appearance of 3 holes, but lets say we need 6 cables, we could have a little divider with in the holes so that each hole could hold 2 cables but keep them separated..
+
+Watching the Tesla video we it looks like tesla is using more than 3 cables, what do you think?
+
+Alterations:
+Thats perfect, yes please let us know if you have any questions and we thought of a couple more things outlined below. Want to get your thoughts on all of the below before we make any of these alterations:
+
+1. What is the purpose of the tail piece? Was it to have a different piece to mount or bolt down?
+
+- The grooves on the bottom of the tail piece, what are their purposes? Wasn't sure it it was to save material, for the cables or provide support?
+
+- only asking because eventually we may need molds to make these pieces out of another material, and the less molds we have the more economical it is to produce
+
+2. If we were to eliminate the tail piece, and lets say add the holes to the body pieces, so that whichever piece was on the bottom would bolt to the "box", it would allow us to only have 2 types of molds/files to use. Thoughts?
+
+3. Have some ideas if we must keep the tail piece on trimming down the material because of the excess when we bring it up to scale. Things like thin out the walls of the ball, take down the base height some, etc.
+
+I know it probably got buried in one of my emails. But do you think you could make a 3d file to scale of the wand? Happy to pay you for that creation.
+
+For prototyping things to hold the wand, we only have our actual charger so to have a 3d file would immensely help. 
+
+I attached pics of the wand with measurements in one of my previous emails. Let me know if you need me to resend them.
+
+No worries about the pic, nice coloring! So your thinking depending on tests, we could get to 3 phases, got it - okay will keep that in mind. 
+
+Gotta start testing somewhere and thats cool with the screws! What material did you print with, PLA? And have you heard of PETG? 
+
+A local 3d print guy recommended it, said it had more of a glossy finish (could help the piece move smoother). 
+
+He said this "It has the reputation of combining the benefits of ABS (stronger, temperature resistant, more durable) and PLA (easy to print) in one material. 
+
+The layer adhesion is usually excellent." So that could be something we use when prototyping.
